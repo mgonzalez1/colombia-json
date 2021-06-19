@@ -1,0 +1,129 @@
+[{
+    "id": 100,
+    "name": "Amazonas",
+    "country_id": 1
+}, {
+    "id": 101,
+    "name": "Antioquia",
+    "country_id": 1
+}, {
+    "id": 102,
+    "name": "Arauca",
+    "country_id": 1
+}, {
+    "id": 103,
+    "name": "Atlántico",
+    "country_id": 1
+}, {
+    "id": 104,
+    "name": "Bolívar",
+    "country_id": 1
+}, {
+    "id": 105,
+    "name": "Boyacá",
+    "country_id": 1
+}, {
+    "id": 106,
+    "name": "Caldas",
+    "country_id": 1
+}, {
+    "id": 107,
+    "name": "Caquetá",
+    "country_id": 1
+}, {
+    "id": 108,
+    "name": "Casanare",
+    "country_id": 1
+}, {
+    "id": 109,
+    "name": "Cauca",
+    "country_id": 1
+}, {
+    "id": 1010,
+    "name": "Cesar",
+    "country_id": 1
+}, {
+    "id": 1011,
+    "name": "Chocó",
+    "country_id": 1
+}, {
+    "id": 1012,
+    "name": "Cundinamarca",
+    "country_id": 1
+}, {
+    "id": 1013,
+    "name": "Córdoba",
+    "country_id": 1
+}, {
+    "id": 1014,
+    "name": "Guainía",
+    "country_id": 1
+}, {
+    "id": 1015,
+    "name": "Guaviare",
+    "country_id": 1
+}, {
+    "id": 1016,
+    "name": "Huila",
+    "country_id": 1
+}, {
+    "id": 1017,
+    "name": "La Guajira",
+    "country_id": 1
+}, {
+    "id": 1018,
+    "name": "Magdalena",
+    "country_id": 1
+}, {
+    "id": 1019,
+    "name": "Meta",
+    "country_id": 1
+}, {
+    "id": 1020,
+    "name": "Nariño",
+    "country_id": 1
+}, {
+    "id": 1021,
+    "name": "Norte de Santander",
+    "country_id": 1
+}, {
+    "id": 1022,
+    "name": "Putumayo",
+    "country_id": 1
+}, {
+    "id": 1023,
+    "name": "Quindío",
+    "country_id": 1
+}, {
+    "id": 1024,
+    "name": "Risaralda",
+    "country_id": 1
+}, {
+    "id": 1025,
+    "name": "San Andrés y Providencia",
+    "country_id": 1
+}, {
+    "id": 1026,
+    "name": "Santander",
+    "country_id": 1
+}, {
+    "id": 1027,
+    "name": "Sucre",
+    "country_id": 1
+}, {
+    "id": 1028,
+    "name": "Tolima",
+    "country_id": 1
+}, {
+    "id": 1029,
+    "name": "Valle del Cauca",
+    "country_id": 1
+}, {
+    "id": 1030,
+    "name": "Vaupés",
+    "country_id": 1
+}, {
+    "id": 1031,
+    "name": "Vichada",
+    "country_id": 1
+}]
